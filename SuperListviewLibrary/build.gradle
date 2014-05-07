@@ -29,4 +29,4 @@ dependencies {
     compile 'com.android.support:support-v4:+'
 }
 
-apply from: '../maven_push.gradle'
+//apply from: '../maven_push.gradle'
